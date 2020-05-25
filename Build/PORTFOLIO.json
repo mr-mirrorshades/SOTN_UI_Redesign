@@ -1,0 +1,16 @@
+{
+"companyName": "Cid Mengel",
+"productName": "UI Redesign - Castlevania Symphony of the Night",
+"productVersion": "0.1",
+"dataUrl": "PORTFOLIO.data.unityweb",
+"wasmCodeUrl": "PORTFOLIO.wasm.code.unityweb",
+"wasmFrameworkUrl": "PORTFOLIO.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.4f1"
+}
